@@ -3,7 +3,6 @@
 // Mini challenge 2 "Add two number"
 // ask the user for two digits as string data, convert it and return the sum of the two numbers. 
 // Peer Reviewd by: no review here
-
 Console.Clear();
 
 bool boolOne;
