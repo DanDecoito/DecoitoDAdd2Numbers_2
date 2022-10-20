@@ -1,45 +1,60 @@
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\bin\Debug\net6.0\Mini Challenge 2.exe
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\bin\Debug\net6.0\Mini Challenge 2.deps.json
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\bin\Debug\net6.0\Mini Challenge 2.runtimeconfig.json
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\bin\Debug\net6.0\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\bin\Debug\net6.0\Mini Challenge 2.pdb
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.csproj.AssemblyReference.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.AssemblyInfoInputs.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.AssemblyInfo.cs
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.csproj.CoreCompileInputs.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\refint\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.pdb
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\Mini Challenge 2.genruntimeconfig.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\Mini Challenge 2\obj\Debug\net6.0\ref\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\bin\Debug\net6.0\Mini Challenge 2.exe
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\bin\Debug\net6.0\Mini Challenge 2.deps.json
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\bin\Debug\net6.0\Mini Challenge 2.runtimeconfig.json
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\bin\Debug\net6.0\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\bin\Debug\net6.0\Mini Challenge 2.pdb
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.csproj.AssemblyReference.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.AssemblyInfoInputs.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.AssemblyInfo.cs
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.csproj.CoreCompileInputs.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\refint\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.pdb
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\Mini Challenge 2.genruntimeconfig.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2\obj\Debug\net6.0\ref\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\bin\Debug\net6.0\Mini Challenge 2.exe
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\bin\Debug\net6.0\Mini Challenge 2.deps.json
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\bin\Debug\net6.0\Mini Challenge 2.runtimeconfig.json
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\bin\Debug\net6.0\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\bin\Debug\net6.0\Mini Challenge 2.pdb
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.csproj.AssemblyReference.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.AssemblyInfoInputs.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.AssemblyInfo.cs
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.csproj.CoreCompileInputs.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\refint\Mini Challenge 2.dll
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.pdb
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\Mini Challenge 2.genruntimeconfig.cache
-C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_2_Rework\obj\Debug\net6.0\ref\Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/bin/Debug/net6.0/Mini Challenge 2.exe
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/bin/Debug/net6.0/Mini Challenge 2.deps.json
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/bin/Debug/net6.0/Mini Challenge 2.runtimeconfig.json
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/bin/Debug/net6.0/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/bin/Debug/net6.0/Mini Challenge 2.pdb
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.csproj.AssemblyReference.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfoInputs.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfo.cs
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.csproj.CoreCompileInputs.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/refint/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.pdb
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/Mini Challenge 2.genruntimeconfig.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/Mini Challenge 2/obj/Debug/net6.0/ref/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/bin/Debug/net6.0/Mini Challenge 2.exe
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/bin/Debug/net6.0/Mini Challenge 2.deps.json
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/bin/Debug/net6.0/Mini Challenge 2.runtimeconfig.json
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/bin/Debug/net6.0/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/bin/Debug/net6.0/Mini Challenge 2.pdb
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.csproj.AssemblyReference.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfoInputs.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfo.cs
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.csproj.CoreCompileInputs.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/refint/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.pdb
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/Mini Challenge 2.genruntimeconfig.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2/obj/Debug/net6.0/ref/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/bin/Debug/net6.0/Mini Challenge 2.exe
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/bin/Debug/net6.0/Mini Challenge 2.deps.json
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/bin/Debug/net6.0/Mini Challenge 2.runtimeconfig.json
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/bin/Debug/net6.0/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/bin/Debug/net6.0/Mini Challenge 2.pdb
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.csproj.AssemblyReference.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfoInputs.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfo.cs
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.csproj.CoreCompileInputs.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/refint/Mini Challenge 2.dll
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.pdb
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/Mini Challenge 2.genruntimeconfig.cache
+C:/Users/danie/OneDrive/Documents/Code Stack Academy/Homework/DDecoito_Mini_Challenge_2_Rework/obj/Debug/net6.0/ref/Mini Challenge 2.dll
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/bin/Debug/net6.0/Mini Challenge 2
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/bin/Debug/net6.0/Mini Challenge 2.deps.json
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/bin/Debug/net6.0/Mini Challenge 2.runtimeconfig.json
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/bin/Debug/net6.0/Mini Challenge 2.dll
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/bin/Debug/net6.0/Mini Challenge 2.pdb
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.csproj.AssemblyReference.cache
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfoInputs.cache
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.AssemblyInfo.cs
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.dll
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/refint/Mini Challenge 2.dll
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.pdb
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/Mini Challenge 2.genruntimeconfig.cache
+/Users/angelmanz/Documents/Level1/GitRepository/DecoitoDAdd2Numbers_2/obj/Debug/net6.0/ref/Mini Challenge 2.dll
